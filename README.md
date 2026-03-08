@@ -1,2 +1,2 @@
-# CG-RAG-Builder---RAG
+# cgragbuilder-rag
 Core RAG components: parsing, embedding, retrieval
